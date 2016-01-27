@@ -41,10 +41,13 @@ Todo API/Services are accessible at :
 localhost:8080/api/todo/**
 ```
 
+> ** Security Config for ROLE_USER : UserName- user | Password - password
+
 and Actuators Services are accessible at :
 ```
 localhost:8080/actuators/**
 ```
+> ** Security Config for ROLE_ADMIN : UserName- admin | Password - password
 
 ## Tests
 
